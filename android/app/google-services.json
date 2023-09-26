@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588606007436",
+    "project_id": "fittribe-58733",
+    "storage_bucket": "fittribe-58733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588606007436:android:89e166f5c9199e2ec133a9",
+        "android_client_info": {
+          "package_name": "com.example.fittribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588606007436-21gggim5prm52eu95h2ul5v2hatf9339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zKIHac68-nlhIOML5emaY0_Kgy7GAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588606007436-21gggim5prm52eu95h2ul5v2hatf9339.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588606007436-mv36vlo5p5dmt8v0f34l3c3ifmjob3bt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nilay.Fittribe",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
